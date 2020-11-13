@@ -1,9 +1,15 @@
 # Alfred Preferences
-> A backup for my Alfred settings 
+> _A backup for my Alfred settings_
+
+## Why
+
+[Alfred](https://www.alfredapp.com/) is one of the most awesome apps for MacOS. I've been using it since 2010 and I'm a happy supporter of this product. If you have a Mac and don't have the Powerpack for Alfred, do yourself a favor : just buy it now 💯 
 
 ## Setup
 
-- Make sure you have [Roboto typeface](https://fonts.google.com/specimen/Roboto) installed (require by custom theme)
+A reminder for my future self :
+
+- Make sure you have [Roboto typeface](https://fonts.google.com/specimen/Roboto) installed (required by custom theme I use)
 - Clone this repository
 - Copy files to your home folder
 
@@ -11,7 +17,7 @@
 cd && git clone git@github.com:ubiratansoares/alfred-preferences.git 
 mv alfred-preferences .alfred
 ```
-- Configure [Alfred](https://www.alfredapp.com/) to use `~/.alfred` as your preferences folder
+- Configure **Alfred** to use `~/.alfred` as your preferences folder
 - Profit
 
 ## Author
